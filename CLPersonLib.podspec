@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "CLPersonLib"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "CLPersonLib."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                         一个自己写的测试工程
+                          CLPersonLib是一个自己写的工程，工具类
                    DESC
 
   spec.homepage     = "https://github.com/CLCodeMe/CATest"
